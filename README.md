@@ -1,2 +1,2 @@
-# C-Programming-Projects
-This repository contains all projects of the C Programming course, Spring 2017
+# C-Programming-Homeworks
+This repository contains all homeworks of the C Programming course, Spring 2017
